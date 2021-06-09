@@ -1,0 +1,11 @@
+/* IMPORTA BOOTSTRAP */
+/* @import url('bootstrap.min.css'); */
+
+.produto{
+    max-height: 130px;
+}
+
+.logout{
+    text-decoration: none;
+    color: #000;
+}
